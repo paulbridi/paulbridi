@@ -1,7 +1,7 @@
 Hi 👋, I'm Paul - a Product Manager, Data/ML Scientist, developer
-<div align="left"><b>Connect with me:</b></div>
-</br>
 <p align="left">
+<div align="left"><b>Connect with me:</b></div>
+
 <a href="https://linkedin.com/in/paulbridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulbridi" height="15" width="20" /></a>
 </p>
 
