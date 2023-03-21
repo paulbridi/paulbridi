@@ -1,4 +1,4 @@
-Hi 👋, I'm Paul - a Product Manager, Data/ML Scientist, developer
+Hi 👋, I'm Paul - a Product Manager, Data/ML Scientist, developer. 
 <p align="left">
 <div align="left"><b>Connect with me:</b></div>
 
