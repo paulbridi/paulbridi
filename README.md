@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Bridi</h1>
-<h3 align="center">Product Manager, Data/ML Scientist, developer</h3>
+<h3 align="center">Product Manager, Data/ML Scientist, Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
