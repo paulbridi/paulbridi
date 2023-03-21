@@ -1,6 +1,3 @@
-### Hi there 🌞
-
-
 <h1 align="center">Hi 👋, I'm Paul Bridi</h1>
 <h3 align="center">Product Manager, Data/ML Scientist, developer</h3>
 
