@@ -1,4 +1,4 @@
-Hi 👋, I'm Paul Bridi, a Product Manager, Data/ML Scientist, developer
+Hi 👋, I'm Paul Bridi - a Product Manager, Data/ML Scientist, developer
 <div align="left"><b>Connect with me:</b></div>
 </br>
 <p align="left">
