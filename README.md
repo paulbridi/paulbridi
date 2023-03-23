@@ -1,4 +1,4 @@
-Hi I'm Paul - a Product Manager, Data/ML Scientist, and developer. Feel fre to add me on <a href="https://linkedin.com/in/paulbridi" target="blank">LinkedIn</a> if you want to connect!
+Hi I'm Paul - a Product Manager, Data/ML Scientist, and developer. Feel free to add me on <a href="https://linkedin.com/in/paulbridi" target="blank">LinkedIn</a> if you want to connect!
 
 ---
 
