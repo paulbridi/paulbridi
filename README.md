@@ -26,4 +26,4 @@ Hi I'm Paul - a Product Manager, Data/ML Scientist, and developer. Feel free to 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulbridi&show_icons=true&locale=en&layout=compact" alt="paulbridi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulbridi&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="paulbridi" /></p>
